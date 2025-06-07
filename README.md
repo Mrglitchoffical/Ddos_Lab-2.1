@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/Mrglitchoffical/Ddos_Lab-2.git
+git clone https://github.com/Mrglitchoffical/Ddos_Lab-2.1.git
 ```
 
 ```
